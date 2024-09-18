@@ -2,6 +2,7 @@
 <h3 align="center">A passionate frontend developer,data analyst, UI&UX designer from India</h3>
 
 - 🔭 I’m currently working on [Resume showcase website](Soon to be completed)
+- I've Just started working on my skills and more to go...stay connected.....
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
